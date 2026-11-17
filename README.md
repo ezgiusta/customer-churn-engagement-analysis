@@ -48,3 +48,9 @@ The analysis identifies priority customer segments and engagement patterns assoc
 - The analysis is based on an educational dataset of 70 users.
 - Two missing skip rate values were excluded from the relevant average calculations.
 - The findings reflect associations rather than causal relationships.
+
+- ## Visualizations
+
+<img src="churn_by_subscription.png" width="500">
+
+<img src="listening_time_by_churn.png" width="500"> 
